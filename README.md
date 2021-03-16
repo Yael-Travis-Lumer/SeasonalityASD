@@ -3,4 +3,4 @@ Code that performs IPW and matching for causal inference. The goal is to estimat
 
 The R file "new_ASD_analysis.R" contains the main analysis.
 
-The additional file "sensitivity.R" perform sensitivity analysis, by randomly selecting 4 months and defining the tretment as being concieved during these four months.
+The additional file "sensitivity.R" perform sensitivity analysis, by randomly selecting four months and defining the tretment as being concieved during these four months.
